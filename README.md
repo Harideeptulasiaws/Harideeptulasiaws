@@ -18,8 +18,17 @@ I'm currently exploring Kubernetes and am excited to dive deeper into GitOps CD,
 
 ## 📂DevSecOps Project
 ### Project 1
-- Description: [A Netflix Clone]
-- GitHub Repo: [https://github.com/Harideeptulasiaws/DevSecOps-Project.git]
+- Description: A Netflix Clone
+- GitHub Repo: https://github.com/Harideeptulasiaws/DevSecOps-Project.git
+  
+## 📂 Some forked repos.
+### Repo to learn DevOps daily used commands- Cheatsheets.
+- Description: A Wonderful cheatsheet prepared by Vikash-Kumar01 for commands used in DevOps daily.
+- GitHub Repo: [https://github.com/Harideeptulasiaws/My_Cheatsheet.git](https://github.com/Harideeptulasiaws/My_Cheatsheet.git)
+
+### Repo to learn the Installation scripts of various tools used in DevOps.
+- Description: A Wonderful cheatsheet prepared by Vikash-Kumar01 for Installation Scripts in DevOps daily.
+- GitHub Repo: [https://github.com/Harideeptulasiaws/My_Cheatsheet.git](https://github.com/Harideeptulasiaws/installation_scripts.git)
 
 ## 🎉 Thanks for visiting!
 Please feel free to explore my repositories and reach out to me. Happy coding! 🚀
