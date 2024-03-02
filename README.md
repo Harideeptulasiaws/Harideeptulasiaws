@@ -28,7 +28,7 @@ I'm currently exploring Kubernetes and am excited to dive deeper into GitOps CD,
 
 ### Repo to learn the Installation scripts of various tools used in DevOps.
 - Description: A Wonderful cheatsheet prepared by Vikash-Kumar01 for Installation Scripts in DevOps daily.
-- GitHub Repo: [https://github.com/Harideeptulasiaws/My_Cheatsheet.git](https://github.com/Harideeptulasiaws/installation_scripts.git)
+- GitHub Repo: https://github.com/Harideeptulasiaws/installation_scripts.git
 
 ## 🎉 Thanks for visiting!
 Please feel free to explore my repositories and reach out to me. Happy coding! 🚀
