@@ -1,7 +1,5 @@
 ## Hello, I'm Harideep Tulasi 👋
 
-![Profile Banner](images/profile-banner.png)
-
 ## About Me
 I'm a passionate DevOps Engineer based in Edinburgh, UK. My journey went from being a Legacy systems application developer to a DevOps Engineer.
 
