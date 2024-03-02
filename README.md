@@ -21,7 +21,7 @@ I'm currently exploring Kubernetes and am excited to dive deeper into GitOps CD,
 - Description: A Netflix Clone
 - GitHub Repo: https://github.com/Harideeptulasiaws/DevSecOps-Project.git
   
-## 📂 Some forked repos.
+## 📂 Some useful repos.
 ### Repo to learn DevOps daily used commands- Cheatsheets.
 - Description: A Wonderful cheatsheet prepared by Vikash-Kumar01 for commands used in DevOps daily.
 - GitHub Repo: [https://github.com/Harideeptulasiaws/My_Cheatsheet.git](https://github.com/Harideeptulasiaws/My_Cheatsheet.git)
